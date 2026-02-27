@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khanmarket.xyz/sitemap.xml
